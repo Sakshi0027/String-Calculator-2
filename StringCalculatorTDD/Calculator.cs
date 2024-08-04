@@ -16,8 +16,14 @@ namespace Calculator
             }
             else
             {
-                var num = 2;
-                return num;
+                int sum = 0;
+                string[] numbers = text.Split(',');
+                foreach (string num in numbers)
+                {
+                    sum += int.Parse(num.Trim());
+                }
+                
+                return sum;
             }
         }
     }

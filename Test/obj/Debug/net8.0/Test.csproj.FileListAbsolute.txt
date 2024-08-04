@@ -102,3 +102,4 @@
 /Users/sakshi/Documents/Projects/ConsoleApp/String Calculator 2/Test/bin/Debug/net8.0/ConsoleApp1
 /Users/sakshi/Documents/Projects/ConsoleApp/String Calculator 2/Test/bin/Debug/net8.0/ConsoleApp1.dll
 /Users/sakshi/Documents/Projects/ConsoleApp/String Calculator 2/Test/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/sakshi/Documents/Projects/ConsoleApp/String Calculator 2/Test/obj/Debug/net8.0/Test.sourcelink.json

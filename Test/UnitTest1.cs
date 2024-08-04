@@ -14,4 +14,12 @@ public class UnitTest1
 
         Assert.Equal(expected, result);
     }
+    [Fact]
+    public void ReturnNumberOnEmptyString()
+    {
+        int expected = 1;
+        int result = new SetCalculator().add("1");
+
+        Assert.Equal(expected, result);
+    }
 }
