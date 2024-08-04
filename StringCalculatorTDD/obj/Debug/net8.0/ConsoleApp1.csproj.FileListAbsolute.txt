@@ -26,3 +26,4 @@
 /Users/sakshi/Documents/Projects/ConsoleApp/String Calculator 2/StringCalculatorTDD/obj/Debug/net8.0/ConsoleApp1.pdb
 /Users/sakshi/Documents/Projects/ConsoleApp/String Calculator 2/StringCalculatorTDD/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
 /Users/sakshi/Documents/Projects/ConsoleApp/String Calculator 2/StringCalculatorTDD/obj/Debug/net8.0/ref/ConsoleApp1.dll
+/Users/sakshi/Documents/Projects/ConsoleApp/String Calculator 2/StringCalculatorTDD/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
